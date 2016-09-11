@@ -1,0 +1,9 @@
+h1 Functions
+
+- if @lambda_response.successful?
+  ul
+    - @functions.each do |function|
+      li
+        = function.function_name
+- else
+  p = @lambda_responce.error
