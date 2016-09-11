@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 group :development, :test do
   gem 'pry-byebug', platform: :mri
   gem 'better_errors'
+  gem 'binding_of_caller'
 end
 
 group :development do
