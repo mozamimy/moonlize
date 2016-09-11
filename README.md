@@ -15,3 +15,4 @@ TBD
 - [ ] Log view
 - [ ] Metric view
 - [ ] Clean design
+- [ ] Test
